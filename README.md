@@ -1,2 +1,3 @@
 # simple-calculator
-A simple calculator with GUI in PyQt5
+I've created a calculator in python using PyQt5, is not that much, but it's simple.
+I hope you like it 😊
